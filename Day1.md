@@ -28,6 +28,10 @@ ls -d */
 ```
 mkdir .HideMe 
 ```
+8. Create multiple files using wildcard expansion
+```
+touch file{1..5}.txt
+```
 ## Commonly Used Linux commands:
 ```bash
 sudo (command)       #lets you perform tasks that require administrative or root permissions.
