@@ -1,5 +1,3 @@
-Certainly! I can style and modify your markdown file for you. Here's the updated version:
-
 # How to Start with Docker Practically?
 
 To deploy an application using Docker, follow these steps:
