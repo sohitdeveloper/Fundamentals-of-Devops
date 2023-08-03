@@ -1,4 +1,4 @@
-# Day 2 Task: Basic Linux Commands
+# Basic Linux Commands2
 # Task: What is the linux command to
 
 1. To view what's written in a file.
