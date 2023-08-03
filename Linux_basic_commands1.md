@@ -1,4 +1,4 @@
-# Day 1 Task: 
+# Linux basic commands: 
 
 1. how to check your present working directory.
 ```
